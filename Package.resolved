@@ -1,0 +1,16 @@
+{
+  "object": {
+    "pins": [
+      {
+        "package": "SwiftIO",
+        "repositoryURL": "https://github.com/madmachineio/SwiftIO.git",
+        "state": {
+          "branch": "main",
+          "revision": "9ee0110dc58a3886f7516b1e13eb3fadcdf9b763",
+          "version": null
+        }
+      }
+    ]
+  },
+  "version": 1
+}
