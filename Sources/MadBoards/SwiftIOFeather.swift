@@ -37,7 +37,7 @@ public enum Id: Int32, IdName {
 
     case UART0 = 0x0500, UART1, UART2
 
-    case C0 = 0x0600, C1, C2, C3
+    case C0 = 0x0600, C1
 
     case I2SOut0 = 0x0700
     
