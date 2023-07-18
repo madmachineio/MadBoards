@@ -42,9 +42,7 @@ public enum Id: Int32, IdName {
 
     case C0 = 0x0600, C1
 
-    case I2SOut0 = 0x0700
-
-    case I2SIn0 = 0x0800
+    case I2S0 = 0x0700
 }
 
 #endif
