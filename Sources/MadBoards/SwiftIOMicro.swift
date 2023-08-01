@@ -1,4 +1,4 @@
-//=== SwiftIOFeather.swift ------------------------------------------------===//
+//=== SwiftIOMicro.swift --------------------------------------------------===//
 //
 // Copyright (c) MadMachine Limited
 // Licensed under MIT License
@@ -13,7 +13,7 @@
 
 import SwiftIO
 
-#if SWIFTIOFEATHER
+#if SWIFTIOMICRO
 
 public enum Id: Int32, IdName {
     public var value: Int32 {
