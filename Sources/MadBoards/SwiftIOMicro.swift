@@ -5,7 +5,6 @@
 //
 // Authors: Andy Liu
 // Created: 02/25/2021
-// Updated: 04/06/2023
 //
 // See https://madmachine.io for more information
 //
@@ -14,7 +13,6 @@
 import SwiftIO
 
 #if SWIFTIOMICRO
-
 
 public extension Id {
   static let D0 = Id(rawValue: 0)
